@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-01T13:39:42 IST" name="Suite" finished-at="2023-04-01T13:39:42 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2023-04-01T13:39:42 IST" name="Test" finished-at="2023-04-01T13:39:42 IST" duration-ms="98">
+      <class name="parameterization.ParameterPassing">
+        <test-method signature="script(java.lang.String,java.lang.String)[pri:0, instance:parameterization.ParameterPassing@524d6d96]" started-at="2023-04-01T13:39:42 IST" name="script" finished-at="2023-04-01T13:39:42 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Divya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gowda]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- script -->
+      </class> <!-- parameterization.ParameterPassing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
